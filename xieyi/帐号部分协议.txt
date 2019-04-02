@@ -1,0 +1,46 @@
+﻿||**********************************************************************||
+主机登陆云
+||opcode||+LEN||+Mac(6)||+operate account(1) length||+operate account||+operate password lenth(1)||+operate password||+Keep(6)
+
+opcode:
+	协议头：0x01
+LEN：
+  消息包长度
+  往后所有len和必须少于此处LEN
+
+Keep:
+  协议保留字段
+
+
+
+||**********************************************************************||
+客户端通过云登陆主机
+||opcode||+LEN||+operate account(1) length||+operate account
+opcode:
+	协议头：0x02
+LEN：
+  消息包长度
+
+
+||**********************************************************************||
+客户端通过云登陆主机应答
+||opcode||+LEN||+Mac(6)||+status(1)||+Authority
+opcode:
+	协议头：0x03
+LEN：
+  消息包长度
+status
+  0x00:登陆成功
+  0x02:用户名或者密码错误
+  0x03:拒绝服务
+
+Authority
+  0x01管理员
+  0x02子账户
+
+
+
+
+
+
+  

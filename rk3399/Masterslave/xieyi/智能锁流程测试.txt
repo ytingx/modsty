@@ -1,0 +1,380 @@
+1、网络正确密码开锁
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[0]:0X89
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[1]:0XD
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[2]:0X2
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[3]:0X1
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[4]:0X1
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[5]:0X0
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[6]:0X0
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[7]:0X0
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[8]:0X0
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[9]:0X0
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[10]:0X0
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[11]:0X0
+[09:25:23]
+[09:25:23]File: puartread.c, Line: 00268: Receive rcv_buf[12]:0X9A
+[09:25:23]
+
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00088: uart_recv:13
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[0]:0X89
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[1]:0XD
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[2]:0X2
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[3]:0XA
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[4]:0X4
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[5]:0X6
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[6]:0XFF
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[7]:0X0
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[8]:0X0
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[9]:0XFF
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[10]:0XFF
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[11]:0X0
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00268: Receive rcv_buf[12]:0XA9
+[09:25:25]
+[09:25:25]File: puartread.c, Line: 00380: 智能锁信息
+[09:25:25]
+[09:25:25]File: nodedata.c, Line: 02087: 智能锁报警
+[09:25:25]
+[09:25:25]File: nodedata.c, Line: 02095: 开锁:0
+[09:25:25]
+
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00088: uart_recv:13
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[0]:0X89
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[1]:0XD
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[2]:0X2
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[3]:0X21
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[4]:0X2
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[5]:0X0
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[6]:0X0
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[7]:0X0
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[8]:0X0
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[9]:0X0
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[10]:0X0
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[11]:0X0
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00268: Receive rcv_buf[12]:0XBB
+[09:25:31]
+[09:25:31]File: puartread.c, Line: 00380: 智能锁信息
+[09:25:31]
+[09:25:31]File: nodedata.c, Line: 02110: 智能锁状态
+[09:25:31]
+[09:25:31]File: nodedata.c, Line: 02113: 关锁:0
+[09:25:31]
+
+
+2、网络错误密码开锁
+File: puartread.c, Line: 00268: Receive rcv_buf[0]:0X89
+
+File: puartread.c, Line: 00268: Receive rcv_buf[1]:0XD
+
+File: puartread.c, Line: 00268: Receive rcv_buf[2]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[3]:0X1
+
+File: puartread.c, Line: 00268: Receive rcv_buf[4]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[5]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[6]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[7]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[8]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[9]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[10]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[11]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[12]:0X9B
+
+File: puartread.c, Line: 00380: 智能锁信息
+
+
+3、单-开锁（id-9）-密码123456
+File: puartread.c, Line: 00268: Receive rcv_buf[0]:0X89
+
+File: puartread.c, Line: 00268: Receive rcv_buf[1]:0XD
+
+File: puartread.c, Line: 00268: Receive rcv_buf[2]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[3]:0XA
+
+File: puartread.c, Line: 00268: Receive rcv_buf[4]:0X4
+
+File: puartread.c, Line: 00268: Receive rcv_buf[5]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[6]:0XFF
+
+File: puartread.c, Line: 00268: Receive rcv_buf[7]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[8]:0X9
+
+File: puartread.c, Line: 00268: Receive rcv_buf[9]:0XFF
+
+File: puartread.c, Line: 00268: Receive rcv_buf[10]:0XFF
+
+File: puartread.c, Line: 00268: Receive rcv_buf[11]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[12]:0XAE
+
+File: puartread.c, Line: 00380: 智能锁信息
+
+File: nodedata.c, Line: 02087: 智能锁报警
+
+File: nodedata.c, Line: 02095: 开锁:0
+
+
+
+File: puartread.c, Line: 00088: uart_recv:13
+
+File: puartread.c, Line: 00268: Receive rcv_buf[0]:0X89
+
+File: puartread.c, Line: 00268: Receive rcv_buf[1]:0XD
+
+File: puartread.c, Line: 00268: Receive rcv_buf[2]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[3]:0X21
+
+File: puartread.c, Line: 00268: Receive rcv_buf[4]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[5]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[6]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[7]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[8]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[9]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[10]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[11]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[12]:0XBB
+
+File: puartread.c, Line: 00380: 智能锁信息
+
+File: nodedata.c, Line: 02110: 智能锁状态
+
+File: nodedata.c, Line: 02113: 关锁:0
+
+
+4、单-开锁（id-2）-指纹
+File: puartread.c, Line: 00268: Receive rcv_buf[0]:0X89
+
+File: puartread.c, Line: 00268: Receive rcv_buf[1]:0XD
+
+File: puartread.c, Line: 00268: Receive rcv_buf[2]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[3]:0XA
+
+File: puartread.c, Line: 00268: Receive rcv_buf[4]:0X4
+
+File: puartread.c, Line: 00268: Receive rcv_buf[5]:0X1
+
+File: puartread.c, Line: 00268: Receive rcv_buf[6]:0XFF
+
+File: puartread.c, Line: 00268: Receive rcv_buf[7]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[8]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[9]:0XFF
+
+File: puartread.c, Line: 00268: Receive rcv_buf[10]:0XFF
+
+File: puartread.c, Line: 00268: Receive rcv_buf[11]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[12]:0XA6
+
+File: puartread.c, Line: 00380: 智能锁信息
+
+File: nodedata.c, Line: 02087: 智能锁报警
+
+File: nodedata.c, Line: 02095: 开锁:0
+
+File: securitymonitor.c, Line: 00935: 智能安防检查
+
+File: securitymonitor.c, Line: 00936: secmonitor[1].secmonitor:0
+
+File: securitymonitor.c, Line: 00937: secmonitor[2].secmonitor:0
+
+File: securitymonitor.c, Line: 00939: secmonitor[1].enable:0
+
+File: securitymonitor.c, Line: 00940: secmonitor[2].enable:0
+
+File: psockserver.c, Line: 00112: App_send[0]:f0
+
+File: psockserver.c, Line: 00112: App_send[1]:0
+
+File: psockserver.c, Line: 00112: App_send[2]:f
+
+File: psockserver.c, Line: 00112: App_send[3]:1
+
+File: psockserver.c, Line: 00112: App_send[4]:2
+
+File: psockserver.c, Line: 00112: App_send[5]:41
+
+File: psockserver.c, Line: 00112: App_send[6]:a
+
+File: psockserver.c, Line: 00112: App_send[7]:4
+
+File: psockserver.c, Line: 00112: App_send[8]:1
+
+File: psockserver.c, Line: 00112: App_send[9]:ff
+
+File: psockserver.c, Line: 00112: App_send[10]:0
+
+File: psockserver.c, Line: 00112: App_send[11]:2
+
+File: psockserver.c, Line: 00112: App_send[12]:ff
+
+File: psockserver.c, Line: 00112: App_send[13]:ff
+
+File: psockserver.c, Line: 00112: App_send[14]:0
+
+File: puartread.c, Line: 00066: fs_sel:1
+
+File: puartread.c, Line: 00088: uart_recv:13
+
+File: puartread.c, Line: 00268: Receive rcv_buf[0]:0X89
+
+File: puartread.c, Line: 00268: Receive rcv_buf[1]:0XD
+
+File: puartread.c, Line: 00268: Receive rcv_buf[2]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[3]:0X21
+
+File: puartread.c, Line: 00268: Receive rcv_buf[4]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[5]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[6]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[7]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[8]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[9]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[10]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[11]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[12]:0XBB
+
+File: puartread.c, Line: 00380: 智能锁信息
+
+File: nodedata.c, Line: 02110: 智能锁状态
+
+File: nodedata.c, Line: 02113: 关锁:0
+
+
+
+5、组合开锁2-9（指纹+密码）
+File: puartread.c, Line: 00268: Receive rcv_buf[0]:0X89
+
+File: puartread.c, Line: 00268: Receive rcv_buf[1]:0XD
+
+File: puartread.c, Line: 00268: Receive rcv_buf[2]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[3]:0XA
+
+File: puartread.c, Line: 00268: Receive rcv_buf[4]:0X4
+
+File: puartread.c, Line: 00268: Receive rcv_buf[5]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[6]:0X1
+
+File: puartread.c, Line: 00268: Receive rcv_buf[7]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[8]:0X9
+
+File: puartread.c, Line: 00268: Receive rcv_buf[9]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[10]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[11]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[12]:0XB4
+
+File: puartread.c, Line: 00380: 智能锁信息
+
+File: nodedata.c, Line: 02087: 智能锁报警
+
+File: nodedata.c, Line: 02095: 开锁:0
+
+
+
+File: puartread.c, Line: 00088: uart_recv:13
+
+File: puartread.c, Line: 00268: Receive rcv_buf[0]:0X89
+
+File: puartread.c, Line: 00268: Receive rcv_buf[1]:0XD
+
+File: puartread.c, Line: 00268: Receive rcv_buf[2]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[3]:0X21
+
+File: puartread.c, Line: 00268: Receive rcv_buf[4]:0X2
+
+File: puartread.c, Line: 00268: Receive rcv_buf[5]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[6]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[7]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[8]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[9]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[10]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[11]:0X0
+
+File: puartread.c, Line: 00268: Receive rcv_buf[12]:0XBB
+
+File: puartread.c, Line: 00380: 智能锁信息
+
+File: nodedata.c, Line: 02110: 智能锁状态
+
+File: nodedata.c, Line: 02113: 关锁:0
